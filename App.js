@@ -1,3 +1,4 @@
+import 'react-native-reanimated';
 import React from 'react';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import AppNavigator from './navigation/AppNavigator';
@@ -31,3 +32,5 @@ const App = () => {
 };
 
 export default App;
+
+
