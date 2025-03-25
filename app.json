@@ -45,6 +45,12 @@
           "delay": 3000,
           "userTrackingPermission": "This identifier will be used to deliver personalized ads to you."
         }
+      ],
+      [
+        "react-native-reanimated/plugin",
+        {
+          "relativeSourceLocation": true
+        }
       ]
     ],
     "extra": {
